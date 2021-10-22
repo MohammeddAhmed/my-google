@@ -1,0 +1,80 @@
+.header-side{
+    display: block;
+    padding: 12px 20px 20px 20px;
+}
+.img-google{
+    width: auto;
+    height: auto;
+    display: block;
+    margin: -9px auto;
+}
+.input{
+    width: 550px;
+    height: 43px;
+    margin: 45px auto;
+    font-size: 16px;
+}
+.form-control{
+    border-radius: 50px;
+}
+.svg2{
+    color: blue;
+    position: absolute;
+    margin: 11px;
+}
+.svg3{
+    position: absolute;
+    margin: 12px 522px 0 0;
+}
+.svg4{
+    position: absolute;
+    margin: 11px  33px  0  0;
+}
+.but1{
+    margin: 0px 542px 0px 5px;
+    border: 1px solid white;
+    font-size: 18px;
+    /*transition: all 0.5;*/
+}
+.but2{
+    border: 1px solid white;
+    font-size: 18px;
+}
+.sing{
+      text-decoration: none;
+      color: black;
+      font-size: 18px;
+}
+.sing2{
+    text-decoration: none;
+}
+.A1{
+    margin: 20px 579px 0px 5px;
+}
+.palestine{
+    text-align: left;
+    padding: 30px;
+    margin-top: 160px;
+    color: rgb(129, 127, 127);
+}
+.footer{
+    background-color: rgb(236, 232, 232);
+}
+footer .ul1{
+    float: left;
+}
+.footer .ul2{
+    float: left;
+}
+ul{
+    list-style: none;
+    /*padding: 0;
+    margin: 0;*/
+}
+li{
+    display: inline-block;
+    margin: 10px 0 0 0;
+}
+.hr{
+    margin:-40px 0 0 0;
+}
